@@ -30,7 +30,7 @@
             android:layout_weight="70"
             android:fontFamily="sans-serif-smallcaps"
             android:gravity="center"
-            android:text="PIck another one!"
+            android:text="PIck another one."
             android:textColor="#404040"
             android:textSize="30sp" />
 
